@@ -1,0 +1,22 @@
+body {
+     background-color: rgb(250, 250, 250);
+}
+
+.nav-bar {
+     background-color: rgb(24, 61, 104);
+     padding: 20px;
+}
+
+.nav-links {
+     color: rgb(219, 219, 219);
+     font-size: 18px;
+     text-decoration: none;
+     margin: 10px;
+}
+
+.nav-links:hover {
+    color: rgb(255, 255, 255);
+    font-size: 18.1px;
+    text-decoration: underline;
+}
+
