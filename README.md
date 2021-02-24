@@ -3,7 +3,7 @@ Full user authentication and signup in Flask and sqlite as database to store new
 
 To run it go in terminal then type:<br>
 
-  ~$ pip3 install -r requirements.txt
+  ~$ pip3 install -r requirements.txt<br>
   ~$ python3 run.py
 
 -------------------------
